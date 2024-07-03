@@ -19,6 +19,7 @@ Manufacturing
 The project involves the following tasks:
 
 1.Data Understanding: Identify variable types and their distributions. Handle rubbish values in ‘Material_Reference’ by converting values starting with '00000' to null. Treat reference columns as categorical variables.
+
 2.Data Preprocessing:
 * Handle missing values using mean/median/mode.
 * Treat outliers using IQR or Isolation Forest.
